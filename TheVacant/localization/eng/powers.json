@@ -1,0 +1,17 @@
+{
+  "THEVACANT-TEMPERANCE_POWER.description": "Increase the [gold]Block[/gold] of the next card you play that [gold]Blocks[/gold].",
+  "THEVACANT-TEMPERANCE_POWER.smartDescription": "Increase the [gold]Block[/gold] of the next card you play that [gold]Blocks[/gold] by [blue]{Amount}[/blue].",
+  "THEVACANT-TEMPERANCE_POWER.title": "Temperance",
+  "THEVACANT-GROOVE_POWER.description": "Triggers at the end of the turn. When triggered, deal damage to a random enemy.",
+  "THEVACANT-GROOVE_POWER.smartDescription": "Triggers at the end of the turn. When triggered, [blue]{Amount}[/blue] damage to a random enemy.",
+  "THEVACANT-GROOVE_POWER.title": "Groove",
+  "THEVACANT-CAFFEINE_POWER.description": "Prevent the next [gold]Exhaust[/gold] cards you play from [gold]Exhausting[/gold].",
+  "THEVACANT-CAFFEINE_POWER.smartDescription": "Prevent the next [blue]{Amount}[/blue] [gold]Exhaust[/gold] {Amount:plural:card|cards} you play from [gold]Exhausting[/gold].",
+  "THEVACANT-CAFFEINE_POWER.title": "Caffeine",
+  "THEVACANT-SPIRIT_POWER.description": "Increase the damage and [gold]Block[/gold] of the next viable card you play.",
+  "THEVACANT-SPIRIT_POWER.smartDescription": "Increase the damage and [gold]Block[/gold] of the next viable card you play by [blue]{Amount}[/blue].",
+  "THEVACANT-SPIRIT_POWER.title": "Spirit",
+  "THEVACANT-DIZZY_POWER.description": "",
+  "THEVACANT-DIZZY_POWER.smartDescription": "",
+  "THEVACANT-DIZZY_POWER.title": "Dizzy"
+}

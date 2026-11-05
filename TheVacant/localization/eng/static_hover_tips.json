@@ -1,0 +1,8 @@
+{
+  "THEVACANT-MILL.description": "Move a number of cards from the top of your [gold]Draw Pile[/gold] to your [gold]Discard Pile[/gold].",
+  "THEVACANT-MILL.title": "Mill",
+  "THEVACANT-MINE.description": "Create an Orb slot and fill it with a [gold]Gem[/gold], which triggers and loses 1 size at the start of your turn.",
+  "THEVACANT-MINE.title": "Mine",
+  "THEVACANT-RETURN.description": "Move cards from a location to your [gold]Hand[/gold].",
+  "THEVACANT-RETURN.title": "Return"
+}

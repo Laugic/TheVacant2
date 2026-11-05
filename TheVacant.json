@@ -1,0 +1,11 @@
+{
+  "id": "TheVacant",
+  "name": "The Vacant",
+  "author": "Laugic",
+  "description": "An undead lich that has traveled through dimensions and found his love for music and coffee.",
+  "version": "v0.0.2",
+  "has_pck": true,
+  "has_dll": true,
+  "dependencies": ["BaseLib"],
+  "affects_gameplay": true
+}

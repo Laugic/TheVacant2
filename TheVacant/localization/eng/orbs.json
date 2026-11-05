@@ -1,0 +1,15 @@
+{
+  "THEVACANT-OPAL_GEM.title": "Opal",
+  "THEVACANT-OPAL_GEM.description": "Gem: Gains [blue]Energy[/blue].",
+  "THEVACANT-OPAL_GEM.smartDescription" : "At the start of your turn, gain [blue]Energy[/blue] and lose 1 Size.",
+  "THEVACANT-OPAL_GEM.smartDescription2" : "At the start of your turn, gain {energyPrefix:energyIcons(1)} and lose 1 Size.",
+  "THEVACANT-EMERALD_GEM.title": "Emerald",
+  "THEVACANT-EMERALD_GEM.description": "Gem: Draw [blue]1[/blue] card.",
+  "THEVACANT-EMERALD_GEM.smartDescription" : "At the start of your turn, draw [blue]1[/blue] card.",
+  "THEVACANT-RUBY_GEM.title": "Ruby",
+  "THEVACANT-RUBY_GEM.description": "Gem: Gain [blue]5[/blue] [gold]Vigor[/gold].",
+  "THEVACANT-RUBY_GEM.smartDescription" : "At the start of your turn, gain [blue]5[/blue] [gold]Vigor[/gold].",
+  "THEVACANT-TOPAZ_GEM.title": "Topaz",
+  "THEVACANT-TOPAZ_GEM.description": "Gem: [gold]Upgrade[/gold] your hand.",
+  "THEVACANT-TOPAZ_GEM.smartDescription" : "At the start of your turn, [gold]Upgrade[/gold] your hand."
+}
